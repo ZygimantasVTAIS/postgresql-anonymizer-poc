@@ -11,3 +11,9 @@ docker-compose -f docker-compose.yml up --build
 ```bash
 docker-compose down --remove-orphans
 ```
+
+### DEMO
+
+- https://postgresql-anonymizer.readthedocs.io/en/stable/
+
+Run quick-start.sql
